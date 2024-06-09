@@ -1,3 +1,16 @@
+# Project Features
+It is a small practice project for understanding the basic functionality of React. The project involves:
+
+List of friends
+
+Allows to add a new friend
+
+Splitting the Bill
+
+Displays which friend owes how much money 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
